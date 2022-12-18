@@ -10,7 +10,7 @@
 
 <a id='description'></a>
 ### Description
-Hi! I'm Neto Anyama. In this project, I performed exploratory data analysis on the Top Tracks of 2022 Nigeria playlist, curated by Spotify, on Spotify. It contained the 50 songs that were most listened to in Nigeria, where I'm from.
+Hi! I'm Neto Anyama. In this project, I performed exploratory data analysis on the Top Tracks of 2022 Nigeria playlist, curated by Spotify, on Spotify. It contained the 50 songs that were most listened to in Nigeria, where I'm from. Data wrangling was done using Python (specifically the Spotipy library), while visualization was done using PowerBI.
 
 #### Dataset Features.
 1. Name: The name of the track.                  
@@ -67,4 +67,4 @@ After performing exploratory data analysis on the dataset, the following inferen
 
 <a id='visualization'></a>
 ### Visualization
-The interactive report for this project can be found [here](https://app.powerbi.com/view?r=eyJrIjoiNWJhOGY5OTYtNGYzYy00ODBmLTk3NWItMDg0NGYxMTQ3ZmY1IiwidCI6ImEzMjNmYmMzLTM3NzUtNDNhMi05MWYxLTA4YWY1ZTA1MTVhZSJ9).
+The interactive report for this project was done using PowerBI can be found [here](https://app.powerbi.com/view?r=eyJrIjoiNWJhOGY5OTYtNGYzYy00ODBmLTk3NWItMDg0NGYxMTQ3ZmY1IiwidCI6ImEzMjNmYmMzLTM3NzUtNDNhMi05MWYxLTA4YWY1ZTA1MTVhZSJ9).
