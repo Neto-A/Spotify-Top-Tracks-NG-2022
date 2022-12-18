@@ -5,6 +5,7 @@
 <ul>
 <li><a href="#description">Description</a></li>
 <li><a href="#conclusions">Conclusions</a></li>
+<li><a href="#visualization">Visualization</a></li>
 </ul>
 
 <a id='description'></a>
@@ -63,3 +64,7 @@ After performing exploratory data analysis on the dataset, the following inferen
 - Nigerians greatly enjoyed particularly danceable rhythms, with the most love coming at the 0.8 danceability point.
 
 - Songs with a mid-upper range (0.6-0.75) valence were most preferred. Therefore, Nigerians enjoyed songs with some level of positivity to them.
+
+<a id='visualization'></a>
+### Visualization
+The interactive report for this project can be found (here)[https://app.powerbi.com/view?r=eyJrIjoiNWJhOGY5OTYtNGYzYy00ODBmLTk3NWItMDg0NGYxMTQ3ZmY1IiwidCI6ImEzMjNmYmMzLTM3NzUtNDNhMi05MWYxLTA4YWY1ZTA1MTVhZSJ9].
