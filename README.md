@@ -18,7 +18,7 @@ Hi! I'm Neto Anyama. In this project, I performed exploratory data analysis on t
 3. Artist: The name of the performing artist.               
 4. Release Date: The date the song/album was released.    
 5. Duration: The duration of the track in minutes, originally in milliseconds.            
-6. Popularity: The score assigned to each track based on the number of streams, likes etc.             
+6. Popularity: The score assigned to each track based on its total streams, how recently and how frequently the song has been played.            
 7. Danceability: Danceability describes how suitable a track is for dancing based on a combination of musical elements including tempo, rhythm stability, beat strength, and overall regularity. A value of 0.0 is least danceable and 1.0 is most danceable.
 8. Energy: Energy is a measure from 0.0 to 1.0 and represents a perceptual measure of intensity and activity. Typically, energetic tracks feel fast, loud, and noisy. For example, death metal has high energy, while a Bach prelude scores low on the scale. Perceptual features contributing to this attribute include dynamic range, perceived loudness, timbre, onset rate, and general entropy.          
 9. Key: The key the track is in. If no key was detected, the value is -1. Key ranges from -1 to 11.
